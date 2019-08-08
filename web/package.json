@@ -1,0 +1,16 @@
+{
+  "name": "webchallenge",
+  "version": "1.0.0",
+  "description": "webchallenge for backend intern role at Mavennet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "June Kim",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.0"
+  }
+}
